@@ -1,4 +1,5 @@
-# 💻 Josue Alejandro Perez Benito
+# Josue Alejandro Perez Benito <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlejandroIngenieria&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
 ### Estudiante de Ingeniería en Ciencias y Sistemas  
 **Universidad de San Carlos de Guatemala**
