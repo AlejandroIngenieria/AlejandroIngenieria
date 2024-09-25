@@ -107,7 +107,6 @@ Todas las certificaciones fueron obtenidas en **Coderhouse**, y formé parte del
 ### 📫 Contacto
 Puedes encontrarme en:
 - [LinkedIn](#)
-- [Correo Electrónico](2995019300101@ingenieria.usac.edu.gt)
 
 ---
 
