@@ -56,13 +56,18 @@
 ### 🎓 Certificaciones
 Todas las certificaciones fueron obtenidas en **Coderhouse**, y formé parte del **Top 10 de los alumnos con mejores resultados**.
 
-- **Desarrollo Web** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/634e8b966ba61f000e5a4dde?lang=es)
-- **JavaScript** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/63acbb10d6cd5f000e8a9949?lang=es)
-- **ReactJS** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6335?lang=es)
-- **Carrera de desarrollo frontend React** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6338?lang=es)
-- **Programación Backend** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/64e3b204a1991e3ce1e3db02?lang=es)
-- **Carrera de desarrollo full stack** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/64e3b204a1991eea8ce3db04?lang=es)
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+<br>
+
+- [Desarrollo Web](https://www.coderhouse.com/latam/certificados/634e8b966ba61f000e5a4dde?lang=es)
+- [Javascript](https://www.coderhouse.com/latam/certificados/63acbb10d6cd5f000e8a9949?lang=es)
+- [React](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6335?lang=es)
+- [Carrera de desarrollo frontend](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6338?lang=es)
+- [Programación backend](https://www.coderhouse.com/latam/certificados/64e3b204a1991e3ce1e3db02?lang=es)
+- [Carrera de desarrollo full stack](https://www.coderhouse.com/latam/certificados/64e3b204a1991eea8ce3db04?lang=es)
+
+<br><br>
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
