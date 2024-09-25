@@ -20,10 +20,14 @@ Soy un apasionado de la tecnología y el desarrollo de software con experiencia 
 ---
 
 ### 🎓 Certificaciones
-- **Desarrollo Web** [Enlace al certificado](#)
-- **JavaScript** [Enlace al certificado](#)
-- **ReactJS** [Enlace al certificado](#)
-- **Programación Backend** [Enlace al certificado](#)
+Todas las certificaciones fueron obtenidas en **Coderhouse**, y formé parte del **Top 10 de los alumnos con mejores resultados**.
+
+- **Desarrollo Web** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/634e8b966ba61f000e5a4dde?lang=es)
+- **JavaScript** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/63acbb10d6cd5f000e8a9949?lang=es)
+- **ReactJS** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6335?lang=es)
+- **Carrera de desarrollo frontend React** [Enlace del certificado](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6338?lang=es)
+- **Programación Backend** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/64e3b204a1991e3ce1e3db02?lang=es)
+- **Carrera de desarrollo full stack** [Enlace al certificado](https://www.coderhouse.com/latam/certificados/64e3b204a1991eea8ce3db04?lang=es)
 
 ---
 
