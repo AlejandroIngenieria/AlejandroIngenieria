@@ -1,4 +1,4 @@
-# 💻 Josue Perez
+# 💻 Josue Alejandro Perez Benito
 
 ### Estudiante de Ingeniería en Ciencias y Sistemas  
 **Universidad de San Carlos de Guatemala**
