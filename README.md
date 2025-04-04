@@ -53,7 +53,7 @@ Todas obtenidas en **Coderhouse**, siendo parte del **Top 10 de los alumnos con 
 <a href="https://x.com/alejo181298" target="_blank">
 <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
-<a href="mailto:alejandro.perez.benito@gmail.com" target="_blank">
+<a href="mailto:japb1998@yahoo.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 <a href="https://github.com/AlejandroIngenieria" target="_blank">
