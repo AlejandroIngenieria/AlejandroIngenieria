@@ -1,11 +1,15 @@
-# Josue Alejandro Perez Benito <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlejandroIngenieria&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
+# Josué Alejandro Pérez Benito <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AlejandroIngenieria&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroIngenieria" /> 
+</p>
 
 ### Estudiante de Ingeniería en Ciencias y Sistemas  
 **Universidad de San Carlos de Guatemala**
+
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
 
 <p align="center">
@@ -69,7 +73,7 @@ Todas las certificaciones fueron obtenidas en **Coderhouse**, y formé parte del
 <br><br>
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
 <br>
 
 <div align="center">
@@ -102,19 +106,41 @@ Todas las certificaciones fueron obtenidas en **Coderhouse**, y formé parte del
 </div>
 <!--- trophy (end) -->
 
-
 </p>        
 <!--- stats (end) --></div>
 
 ---
 
 ### 📫 Contacto
-Puedes encontrarme en:
-- [LinkedIn](#)
+Puedes contactarme a través de:
+
+- WhatsApp: [+502 5627-6439](https://wa.me/50256276439)
+- Instagram: [@alejo_perez_98](https://www.instagram.com/alejo_perez_98/)
+- Threads: [@alejo_perez_98](https://www.threads.net/@alejo_perez_98)
+- Twitter/X: [@alejo181298](https://x.com/alejo181298)
+- LinkedIn: [Alejandro Pérez](https://www.linkedin.com/in/alejandropérez98)
+- Email: [alejandro.perez.benito@gmail.com](mailto:alejandro.perez.benito@gmail.com)
 
 ---
 
 ### 🌱 Actualmente aprendiendo
-Rust, Kubernetes, sistemas distribuidos.
+- Rust
+- Kubernetes
+- Sistemas distribuidos
+- Arquitectura de software
 
-<br>
+---
+
+### 💼 Proyectos destacados
+- [Nombre del proyecto 1](#) - Breve descripción
+- [Nombre del proyecto 2](#) - Breve descripción
+- [Nombre del proyecto 3](#) - Breve descripción
+
+---
+
+### ✍️ Blog técnico
+Escribo sobre desarrollo y tecnología en [Mi Blog](#) (próximamente)
+
+---
+
+<img src="https://github.com/AlejandroIngenieria/AlejandroIngenieria/blob/main/snake.svg" alt="Snake animation" />
