@@ -4,22 +4,6 @@
   <img src="https://komarev.com/ghpvc/?username=AlejandroIngenieria&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroIngenieria" /> 
 </p>
 
-<h4 align="center">
-  <b><a href="#-habilidades">Habilidades</a></b>
-  •
-  <b><a href="#-certificaciones">Certificaciones</a></b>
-  •
-  <b><a href="#-proyectos-destacados">Proyectos</a></b>
-  •
-  <a href="#-estadísticas-de-github">Estadísticas</a>
-  •
-  <a href="#-actualmente-aprendiendo">Aprendiendo</a>
-  •
-  <a href="https://www.linkedin.com/in/alejandropérez98">LinkedIn</a>
-  •
-  <a href="https://x.com/alejo181298">Twitter/X</a>
-</h4>
-
 ## Introducción
 
 Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. Apasionado por el desarrollo de software, sistemas distribuidos y tecnologías emergentes.
