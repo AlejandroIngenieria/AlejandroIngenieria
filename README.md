@@ -1,9 +1,9 @@
 <h1 align="center">¡Hola! Soy Josué Alejandro Pérez 👋</h1>
 
 <div align="center">
-<a href="https://github.com/AlejandroIngenieria">
-  <img src="https://github.com/AlejandroIngenieria/AlejandroIngenieria/blob/main/snake.svg" height=360 />
-</a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=AlejandroIngenieria&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroIngenieria" /> 
+</p>
 </div>
 
 <h4 align="center">
