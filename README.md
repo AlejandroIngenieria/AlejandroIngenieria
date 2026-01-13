@@ -1,67 +1,67 @@
 # Josué Alejandro Pérez
-**Ingeniero en Ciencias y Sistemas** | Especialista en Desarrollo Full Stack, Cloud Computing y Ciberseguridad
+**Ingeniero en Ciencias y Sistemas** | Full Stack Developer | Cloud & Security Specialist
 
-Perfil profesional orientado al diseño y ejecución de arquitecturas escalables, con un enfoque integral en la seguridad de la información y la optimización de infraestructura en la nube. Egresado de la Universidad de San Carlos de Guatemala, con sólida base técnica en ingeniería de software y gestión de sistemas complejos bajo metodologías ágiles.
-
----
-
-### Perfil Profesional
-
-Ingeniero con capacidad analítica para la resolución de problemas mediante el desarrollo de software de alto rendimiento. Mi experiencia converge en la intersección del desarrollo Full Stack y la seguridad operativa, garantizando que cada solución sea funcional, resiliente y alineada con los estándares internacionales de protección de datos.
-
-- **Especialidad:** Arquitecturas Cloud-Native y Desarrollo Full Stack (JavaScript/TypeScript).
-- **Metodologías:** Gestión de proyectos mediante marcos de trabajo Scrum y Kanban.
-- **Enfoque técnico:** Seguridad por diseño, automatización de infraestructura (IaC) y optimización de bases de datos.
-- **Competencia lingüística:** Inglés nivel B1 (Intermedio profesional).
+Ingeniero egresado de la Universidad de San Carlos de Guatemala con especialización en el ciclo de vida de desarrollo de software seguro y arquitecturas en la nube. Experto en la implementación de soluciones escalables bajo metodologías ágiles y estándares internacionales de ciberseguridad.
 
 ---
 
-### Áreas de Competencia Técnica
+### Resumen Profesional
+
+Profesional con enfoque técnico en la convergencia de desarrollo moderno y seguridad operativa. Experiencia en la gestión de infraestructuras críticas y optimización de flujos de trabajo mediante la automatización y el uso de marcos de trabajo estructurados.
+
+- **Formación Académica:** Ingeniería en Ciencias y Sistemas (USAC).
+- **Metodologías de Trabajo:** Dominio avanzado de Scrum y Kanban para la gestión de proyectos complejos.
+- **Idiomas:** Inglés nivel B1 (Intermedio profesional).
+
+---
+
+### Competencias Técnicas
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Desarrollo Backend** | Node.js, Express, Java, Python, Go, Arquitectura de Microservicios, API REST. |
-| **Desarrollo Frontend** | React.js, Next.js, TypeScript, Gestión de estado complejo, Diseño responsivo. |
-| **Infraestructura y Cloud** | Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure. |
-| **Seguridad y DevOps** | Docker, Kubernetes, CI/CD, Terraform, OWASP Top 10, Cifrado de datos. |
-| **Gestión y Metodologías** | Scrum, Kanban, GitFlow, Gestión de ciclo de vida de software (SDLC). |
-| **Bases de Datos** | PostgreSQL, MySQL, MongoDB, Redis, Optimización de consultas. |
+| **Desarrollo de Software** | Node.js, Express, Java, Python, Go, TypeScript, Next.js, API REST. |
+| **Arquitectura Cloud** | Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure. |
+| **Seguridad y DevOps** | Docker, Kubernetes, Terraform, CI/CD, OWASP Top 10, DevSecOps. |
+| **Gestión de Datos** | PostgreSQL, MongoDB, Redis, MySQL, Diseño de bases de datos relacionales y NoSQL. |
+| **Gestión y Calidad** | Scrum, Kanban, GitFlow, Gestión de ciclo de vida de software (SDLC). |
 
 ---
 
-### Certificaciones Profesionales
+### Certificaciones Destacadas
 
-**Coderhouse - Rendimiento Académico Destacado (Top 10)**
-* **Full Stack Development** ([Verificar Credencial](https://www.coderhouse.com/latam/certificados/64e3b204a1991eea8ce3db04?lang=es))
-* **Backend Development** ([Verificar Credencial](https://www.coderhouse.com/latam/certificados/64e3b204a1991e3ce1e3db02?lang=es))
-* **Frontend Development** ([Verificar Credencial](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6338?lang=es))
-* **React.js** ([Verificar Credencial](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6335?lang=es))
+**Coderhouse - Reconocimiento Académico Top 10**
+* **Desarrollo Full Stack**
+* **Desarrollo Backend**
+* **Desarrollo Frontend**
+* **React.js y JavaScript**
 
-**Otras Certificaciones**
-* Fundamentos de Ciberseguridad y Estándares de Red.
-* Arquitectura de Cloud Computing.
-* Acreditación de Competencia Lingüística: Inglés B1.
-
----
-
-### Proyectos de Ingeniería Destacados
-
-**Sistema de Arquitectura Distribuida y Segura**
-* Implementación de una infraestructura basada en microservicios utilizando Node.js y Docker.
-* Gestión del ciclo de vida del proyecto bajo marco de trabajo Scrum para entregas iterativas.
-
-**Optimización de Infraestructura Cloud**
-* Despliegue y gestión de recursos en entornos AWS, priorizando la alta disponibilidad y la reducción de costos operativos.
+**Otras Credenciales**
+* Especialista en Fundamentos de Ciberseguridad.
+* Certificación en Arquitectura de Cloud Computing.
 
 ---
 
-### Métricas de Actividad
+### Métricas de Actividad Profesional
+
+Para que estas imágenes carguen correctamente, asegúrate de que tu nombre de usuario en GitHub sea exactamente **AlejandroIngenieria**.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroIngenieria&show_icons=true&theme=corporate&hide_border=false&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroIngenieria&show_icons=true&theme=flat&hide_border=false&count_private=true" alt="Estadísticas Generales" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroIngenieria&layout=compact&theme=corporate&hide_border=false&langs_count=8" alt="Lenguajes principales" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroIngenieria&layout=compact&theme=flat&hide_border=false" alt="Lenguajes de Programación" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroIngenieria&theme=flat&hide_border=false" alt="Racha de Actividad" />
 </div>
+
+---
+
+### Proyectos de Ingeniería Seleccionados
+
+**Infraestructura Crítica Segura**
+* Diseño y despliegue de microservicios contenerizados con auditoría de seguridad integrada en el pipeline.
+
+**Arquitectura Cloud Nativa**
+* Implementación de soluciones de alta disponibilidad en AWS utilizando servicios gestionados y mejores prácticas de costos.
 
 ---
 
@@ -73,5 +73,5 @@ Ingeniero con capacidad analítica para la resolución de problemas mediante el 
 
 ---
 <div align="center">
-  <sub>Ingeniero Josué Alejandro Pérez | 2026</sub>
+  <sub>Ingeniero Josué Alejandro Pérez | Gestión de Sistemas y Tecnologías de la Información</sub>
 </div>
