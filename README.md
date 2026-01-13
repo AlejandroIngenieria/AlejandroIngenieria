@@ -1,73 +1,144 @@
-<h1 align="center">¡Hola! Soy Josué Alejandro Pérez 🔥</h1>
+# Josué Alejandro Pérez
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=AlejandroIngenieria&label=Profile%20views&color=0e75b6&style=flat" alt="AlejandroIngenieria" /> 
-</p>
+**Systems Engineer** | Full Stack Developer | Cloud & Security Specialist
 
-## Introducción
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alejandropérez98)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:japb1998@yahoo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/AlejandroIngenieria)
 
-Estudiante de Ingeniería en Ciencias y Sistemas en la Universidad de San Carlos de Guatemala. Apasionado por el desarrollo de software, sistemas distribuidos y tecnologías emergentes.
+---
 
-[🎦 Video de presentación](#) (próximamente)
+## About Me
 
-## Mis tecnologías y estadísticas
+Systems Engineering graduate from Universidad de San Carlos de Guatemala (USAC) with expertise in full-stack development, cloud architecture, and cybersecurity. Passionate about building scalable solutions and implementing security best practices in modern software systems.
 
-| Lenguajes y Frameworks | Cloud y DevOps |
-| ----------- | ----------- |
-| ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
+### Core Competencies
 
-| Estadísticas GitHub | Top Lenguajes |
-| ----------- | ----------- |
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlejandroIngenieria&theme=dark&show_icons=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlejandroIngenieria&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/> |
+**Software Development**
+- Full Stack JavaScript (React, Node.js, Express)
+- Object-Oriented Programming (Java, Python)
+- RESTful APIs & Microservices Architecture
+- Database Design (SQL/NoSQL)
 
-| Trofeos GitHub | Streak |
-| ----------- | ----------- |
-| <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=AlejandroIngenieria&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> | <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlejandroIngenieria&theme=dark&hide_border=false" /> |
+**Cloud & Infrastructure**
+- AWS, Google Cloud Platform, Microsoft Azure
+- Docker & Kubernetes
+- CI/CD Pipelines
+- Infrastructure as Code
 
-## Certificaciones 🎓
+**Cybersecurity**
+- Security Architecture & Best Practices
+- Vulnerability Assessment
+- Secure Coding Standards
+- Network Security Fundamentals
 
-Todas obtenidas en **Coderhouse**, siendo parte del **Top 10 de los alumnos con mejores resultados**:
+**Languages**
+- Spanish (Native)
+- English (B1 Certified)
 
-- [Desarrollo Web](https://www.coderhouse.com/latam/certificados/634e8b966ba61f000e5a4dde?lang=es)
-- [JavaScript](https://www.coderhouse.com/latam/certificados/63acbb10d6cd5f000e8a9949?lang=es)
-- [React](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6335?lang=es)
-- [Carrera Frontend](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6338?lang=es)
-- [Programación Backend](https://www.coderhouse.com/latam/certificados/64e3b204a1991e3ce1e3db02?lang=es)
-- [Carrera Full Stack](https://www.coderhouse.com/latam/certificados/64e3b204a1991eea8ce3db04?lang=es)
+---
 
-## Actualmente aprendiendo 🌱
+## Professional Certifications
 
-- React Native
-- Arquitectura de software a gran escala
-- Machine Learning
-- Patrones de diseño avanzados
+### Coderhouse - Top 10 Academic Performance
+- **Full Stack Development** - [View Certificate](https://www.coderhouse.com/latam/certificados/64e3b204a1991eea8ce3db04?lang=es)
+- **Backend Development** - [View Certificate](https://www.coderhouse.com/latam/certificados/64e3b204a1991e3ce1e3db02?lang=es)
+- **Frontend Development** - [View Certificate](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6338?lang=es)
+- **React.js** - [View Certificate](https://www.coderhouse.com/latam/certificados/63f94f49ddb983000e1b6335?lang=es)
+- **JavaScript** - [View Certificate](https://www.coderhouse.com/latam/certificados/63acbb10d6cd5f000e8a9949?lang=es)
+- **Web Development** - [View Certificate](https://www.coderhouse.com/latam/certificados/634e8b966ba61f000e5a4dde?lang=es)
 
-## Contáctame
+### Additional Certifications
+- **Cybersecurity Fundamentals**
+- **Cloud Computing Architecture**
+- **English Language Proficiency - B1 Level**
 
-<a href="https://wa.me/50256276439" target="_blank">
-<img src=https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white alt=whatsapp style="margin-bottom: 5px;" />
+---
 
-<a href="https://www.linkedin.com/in/alejandropérez98" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+## Technical Stack
 
-<a href="https://x.com/alejo181298" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+```text
+Languages:      Python, Java, JavaScript/TypeScript, Go, SQL
+Frontend:       React.js, HTML5, CSS3, Responsive Design
+Backend:        Node.js, Express.js, RESTful APIs
+Databases:      PostgreSQL, MongoDB, MySQL, Redis
+Cloud:          AWS, Google Cloud Platform, Microsoft Azure
+DevOps:         Docker, Kubernetes, CI/CD, Git
+Security:       OWASP, Secure Coding, Network Security
+```
 
-<a href="mailto:japb1998@yahoo.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+---
 
-<a href="https://github.com/AlejandroIngenieria" target="_blank">
-<img src=https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+## Current Focus
 
-## Proyectos destacados
+- Advanced Software Architecture Patterns
+- Cloud-Native Application Development
+- React Native for Cross-Platform Mobile Development
+- Machine Learning Integration in Production Systems
+- Enterprise Security Implementations
 
-- [Proyecto 1](#) - Descripción breve
-- [Proyecto 2](#) - Descripción breve
-- [Proyecto 3](#) - Descripción breve
+---
+
+## GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlejandroIngenieria&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroIngenieria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlejandroIngenieria&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Featured Projects
+
+### [Project Name 1](#)
+**Tech Stack:** React, Node.js, MongoDB, AWS  
+Brief description of the project highlighting the problem solved and technical implementation.
+
+### [Project Name 2](#)
+**Tech Stack:** Python, Docker, Kubernetes, GCP  
+Brief description focusing on scalability and security aspects.
+
+### [Project Name 3](#)
+**Tech Stack:** Java, Spring Boot, PostgreSQL, Azure  
+Description emphasizing enterprise-grade architecture and best practices.
 
 <details>
-  <summary>Ver más proyectos</summary>
-  
-  - [Proyecto 4](#)
-  - [Proyecto 5](#)
+<summary><b>View More Projects</b></summary>
+
+- **[Additional Project 1](#)** - Technology stack and brief description
+- **[Additional Project 2](#)** - Technology stack and brief description
+- **[Additional Project 3](#)** - Technology stack and brief description
+
 </details>
+
+---
+
+## Professional Experience
+
+> *Looking to collaborate on innovative projects in cloud architecture, full-stack development, and cybersecurity implementations.*
+
+---
+
+## Contact & Collaboration
+
+I'm always interested in discussing new opportunities, technical challenges, and collaborative projects. Feel free to reach out:
+
+- **LinkedIn:** [Alejandro Pérez](https://www.linkedin.com/in/alejandropérez98)
+- **Email:** japb1998@yahoo.com
+- **WhatsApp:** [+502 5627 6439](https://wa.me/50256276439)
+- **Twitter/X:** [@alejo181298](https://x.com/alejo181298)
+
+---
+
+<div align="center">
+
+**Open to opportunities in:** Full Stack Development | Cloud Architecture | DevSecOps | Technical Leadership
+
+![Profile Views](https://komarev.com/ghpvc/?username=AlejandroIngenieria&color=0e75b6&style=flat-square)
+
+</div>
